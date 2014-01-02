@@ -79,7 +79,7 @@ var site = require('apostrophe-site')({
   assets: {
     scripts: ['site'],
     stylesheets: ['site']
-  },
+  }
 
   // beforeEndAssets: function(callback) {
   //   // Apostrophe already loads these for logged-out users, but we
